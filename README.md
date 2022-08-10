@@ -21,6 +21,4 @@ Open <https://script.google.com/*my-script-link*/exec?secret=*your-password*> in
 Append `?secret=*your-password*` to the google provided script link. If you omit this you get an error message.
 
 
-## Demonstration:
-Open <https://script.google.com/macros/s/AKfycbzLtyl8XBlXPHcXn3xc3ssi1uFW4FsHI8JUK0vbnogorm6pd2CuTzACG8vOl2C2gfosvA/exec?secret=LauraLovegood> in order to view my tracking pixel logs.
 
